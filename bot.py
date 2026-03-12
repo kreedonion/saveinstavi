@@ -42,3 +42,4 @@ app.add_handler(MessageHandler(filters.TEXT, download_instagram))
 
 print("Бот запущен...")
 app.run_polling()
+
